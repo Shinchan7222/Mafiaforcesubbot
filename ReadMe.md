@@ -1,6 +1,8 @@
 # Mafia Force Subscribe Bot
 Forces a user to join your group/channel so as to be able to message in a group.
 
+[![MAFIA LOGO](https://telegra.ph/file/938c1c08c53972280185c.jpg)](https://t.me/MafiaBot_Support)
+
 # Features
 - Checks for all newly joined members with a customisable welcome message.
 - Checks for users who are already in the group but has not joined the channel.
